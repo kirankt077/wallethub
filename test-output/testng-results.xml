@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28337" started-at="2020-04-28T11:06:09Z" finished-at="2020-04-28T11:06:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28337" started-at="2020-04-28T11:06:09Z" finished-at="2020-04-28T11:06:37Z">
+      <class name="com.wallethub.testCases.TC_wallethub_review_002">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.wallethub.testCases.TC_wallethub_review_002@7d9d1a19]" name="Setup" is-config="true" duration-ms="4788" started-at="2020-04-28T11:06:09Z" finished-at="2020-04-28T11:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.wallethub.testCases.TC_wallethub_review_002@7d9d1a19]" name="loginTest" duration-ms="23518" started-at="2020-04-28T11:06:13Z" finished-at="2020-04-28T11:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wallethub.testCases.TC_wallethub_review_002@7d9d1a19]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-04-28T11:06:37Z" finished-at="2020-04-28T11:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wallethub.testCases.TC_wallethub_review_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
